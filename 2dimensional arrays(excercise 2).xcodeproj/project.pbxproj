@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5BC88DA1272AB757002139C2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5BC88DA0272AB757002139C2 /* main.cpp */; };
+		5BC88DA1272AB757002139C2 /* excercise2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5BC88DA0272AB757002139C2 /* excercise2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		5BC88D9D272AB757002139C2 /* 2dimensional arrays(excercise 2) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2dimensional arrays(excercise 2)"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5BC88DA0272AB757002139C2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5BC88DA0272AB757002139C2 /* excercise2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = excercise2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		5BC88D9F272AB757002139C2 /* 2dimensional arrays(excercise 2) */ = {
 			isa = PBXGroup;
 			children = (
-				5BC88DA0272AB757002139C2 /* main.cpp */,
+				5BC88DA0272AB757002139C2 /* excercise2.cpp */,
 			);
 			path = "2dimensional arrays(excercise 2)";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5BC88DA1272AB757002139C2 /* main.cpp in Sources */,
+				5BC88DA1272AB757002139C2 /* excercise2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
